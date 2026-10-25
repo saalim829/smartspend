@@ -8,9 +8,9 @@ SmartSpend is a full-stack web application concept for recording income and expe
 - [x] Add and remove transactions in demo session
 - [x] CSV export of visible transactions
 - [x] Express API scaffold and health endpoint
-- [ ] MongoDB persistence and transaction API
-- [ ] User authentication
-- [ ] Persistent budgets and analytics
+- [x] MongoDB persistence and transaction API
+- [x] User authentication
+- [x] Persistent budgets and analytics
 
 > The initial dashboard uses sample data for presentation. Transactions created in this stage are stored only in React state and are not persisted to a database. Do not present sample figures as real financial data.
 
