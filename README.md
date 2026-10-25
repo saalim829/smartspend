@@ -39,6 +39,3 @@ npm run dev
 Set `MONGODB_URI` in `backend/.env` before enabling database-backed features. Keep `.env` private and never commit credentials.
 
 API health check: `http://localhost:5000/api/health`
-
-## AAT-1 report
-Document the actual implementation, include genuine screenshots of the running application, and explain which features use sample data versus persistent storage.
